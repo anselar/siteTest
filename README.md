@@ -1,2 +1,0 @@
-# siteTest
-JavaEE+bootstrap3
